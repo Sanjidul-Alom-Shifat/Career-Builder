@@ -1,0 +1,26 @@
+[
+    {
+        "logo": "https://img.freepik.com/premium-vector/accountant-flat-vector-illustration-concept-tax-calculating-financial-analysis_199064-861.jpg?w=740",
+        "name": "Account & Finance",
+        "id":"01",
+        "jobsAvailable": "75+ job available"
+    },
+    {
+        "logo": "https://img.freepik.com/premium-photo/creative-mind-3d-illustration-with-light-bulb-generative-ai_549702-681.jpg?w=740",
+        "name": "Creative Design",
+        "id":"02",
+        "jobsAvailable": "100+ job available"
+    },
+    {
+        "logo": "https://img.freepik.com/free-vector/mobile-marketing-isometric-style_23-2148896785.jpg?w=740&t=st=1681069007~exp=1681069607~hmac=5b7e5590313d8df360582a42a609930e69be283b1bde0c48d6c107175bdf1473",
+        "name": "Marketing & Sales",
+        "id":"03",
+        "jobsAvailable": "50+ job available"
+    },
+    {
+        "logo": "https://img.freepik.com/free-vector/engineering-background-design_1300-11.jpg?w=740&t=st=1681069547~exp=1681070147~hmac=6948ebc6b330824e91da0703a0760a43658bfe3863cd1ce4b792f3503b9f7269",
+        "name": "Engineering Job",
+        "id":"04",
+        "jobsAvailable": "25+ job available"
+    }
+]
